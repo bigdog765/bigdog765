@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bigdog765
-- 👀 I’m interested in ...physic engines, computer graphics, game development, backend programming.
+- 👀 I’m interested in ...physics engines, computer graphics, game development, backend programming.
 - 🌱 I’m currently learning ... graduated from wayne state cs in 2023
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... aidy.vg@gmail.com
